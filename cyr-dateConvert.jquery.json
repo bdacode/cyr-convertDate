@@ -12,17 +12,17 @@
     "author": {
         "name": "Cyrakuse",
         "email": "cyrakuse@live.fr",
-        "url": "https://github.com/cyrakuse/jquery.cyr-dateConvert"
+        "url": "https://github.com/cyrakuse/cyr-convertDate"
     },
     "licenses": [
         {
             "type": "MIT",
-            "url": "https://github.com/jquery/cyrakuse/jquery.cyr-dateConvert/MIT-LICENSE.txt"
+            "url": "https://github.com/cyrakuse/cyr-convertDate/MIT-LICENSE.txt"
         }
     ],
-    "bugs": "https://github.com/cyrakuse/jquery.cyr-dateConvert/issues",
-    "homepage": "https://github.com/cyrakuse/jquery.cyr-dateConvert",
-    "docs": "https://github.com/cyrakuse/jquery.cyr-dateConvert",
+    "bugs": "https://github.com/cyrakuse/cyr-dateConvert/issues",
+    "homepage": "https://github.com/cyrakuse/cyr-dateConvert",
+    "docs": "https://github.com/cyrakuse/cyr-dateConvert",
     "download": "http://code.jquery.com/#cyr-dateConvert",
     "dependencies": {
         "jquery": ">=1.5"
